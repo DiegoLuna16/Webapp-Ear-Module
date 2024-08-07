@@ -1,0 +1,6 @@
+org\diegovelu\webapp\ear\ejb\services\UsuarioService.class
+org\diegovelu\webapp\ear\ejb\services\UsuarioServiceImpl.class
+org\diegovelu\webapp\ear\ejb\ProducerResources.class
+org\diegovelu\webapp\ear\ejb\repositories\UsuarioRepository.class
+org\diegovelu\webapp\ear\ejb\repositories\UsuarioRepositoryImpl.class
+org\diegovelu\webapp\ear\ejb\entities\Usuario.class
